@@ -1,18 +1,28 @@
-.App {
+body{
+  background-color: cornflowerblue
+}
+h2{
+  color: rgb(14, 41, 159);
+  text-align: center;
+  background-color: rgb(181, 151, 105);
+  padding: 20px;
+  margin:0
+}
+.row{
+  background-color: rgb(230, 212, 196);
+  margin:70px;
+  padding: 30px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+span{
+  color: rebeccapurple;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.array{
+  color:blue;
 }
-
+.other{
+  color:black;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
